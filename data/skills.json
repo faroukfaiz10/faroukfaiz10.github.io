@@ -1,0 +1,71 @@
+[
+  {
+    "grouping": "Programming languages",
+    "skills": [
+      { "name": "Python", "icon_path": "python/python-original" },
+      { "name": "Java", "icon_path": "java/java-original" },
+      { "name": "Golang", "icon_path": "go/go-original" },
+      { "name": "Scala", "icon_path": "scala/scala-original" },
+      { "name": "Javascript", "icon_path": "javascript/javascript-original" },
+      { "name": "Typescript", "icon_path": "typescript/typescript-original" },
+      { "name": "NodeJs", "icon_path": "nodejs/nodejs-original" },
+      { "name": "Rust", "icon_path": "rust/rust-plain" }
+    ]
+  },
+  {
+    "grouping": "Web developement",
+    "skills": [
+      { "name": "Express", "icon_path": "express/express-original" },
+      { "name": "Django", "icon_path": "django/django-original" },
+      { "name": "Flask", "icon_path": "flask/flask-original" },
+      { "name": "Spring", "icon_path": "spring/spring-original" },
+      { "name": "GraphQL", "icon_path": "graphql/graphql-plain" },
+      { "name": "Webpack", "icon_path": "webpack/webpack-original" },
+      { "name": "React", "icon_path": "react/react-original" },
+      { "name": "Vue", "icon_path": "vuejs/vuejs-original" }
+    ]
+  },
+  {
+    "grouping": "Databases",
+    "skills": [
+      { "name": "PostgreSQL", "icon_path": "postgresql/postgresql-original" },
+      { "name": "MySQL", "icon_path": "mysql/mysql-original" },
+      { "name": "Redis", "icon_path": "redis/redis-original" },
+      { "name": "DynamoDB", "iconify_1": "logos", "iconify_2": "aws-dynamodb" },
+      { "name": "MongoDB", "icon_path": "mongodb/mongodb-original" }
+    ]
+  },
+  {
+    "grouping": "Data science/engineering",
+    "skills": [
+      {
+        "name": "Spark",
+        "iconify_1": "cib",
+        "iconify_2": "apache-spark",
+        "color": "#e65821"
+      },
+      {
+        "name": "SkLearn",
+        "iconify_1": "simple-icons",
+        "iconify_2": "scikitlearn",
+        "color": "#f79939"
+      },
+      { "name": "Pandas", "icon_path": "pandas/pandas-original" },
+      { "name": "Tensorflow", "icon_path": "tensorflow/tensorflow-original" }
+    ]
+  },
+  {
+    "grouping": "Other",
+    "skills": [
+        { "name": "Linux", "icon_path": "linux/linux-original" },
+        {
+            "name": "AWS",
+            "icon_path": "amazonwebservices/amazonwebservices-original"
+        },
+        { "name": "Docker", "icon_path": "docker/docker-original" },
+        { "name": "Kubernetes", "icon_path": "kubernetes/kubernetes-plain" },
+        { "name": "Kafka", "icon_path": "apachekafka/apachekafka-original" },
+        { "name": "Android developement", "icon_path": "android/android-original"}
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "role":"Software engineer intern",
+        "company":"Uber (Amsterdam)",
+        "summary":"- Created a new service to monitor our services’ failovers, led 3 failover drills, investigated and mitigated issues with stakeholders that had trouble detecting DNS changes which led to reducing failover time from 15min to 2min. \n - Investigated and fixed a metrics issue that was blocking the migration of our stakeholders to the latest version of our Golang SDK. Proceeded to lead the migration and mitigate multiple issues along the way. \n - Added support for Uber’s custom authentication solution in my team’s service which complies with PSD2 directives, updated dozen of dependencies to fix CVEs etc... \n\n **Stack: Java/Golang/Python**",
+        "range":"March 2021 - August 2021"
+    },
+    {
+        "role":"Software engineer (Freelancer)",
+        "company":"JetSoft (Remote)",
+        "summary":"Develop, deploy and maintain a secure and robust application for visualizing streams of data collected by different sensors through customizable dashboards. \n\n **Stack: React/NodeJS with Typescript**",
+        "range":"August 2020 - September 2021"
+    },
+    {
+        "role":"Software engineer intern",
+        "company":"Klee Group",
+        "summary":"Design and develop an application in Typescript using p5.js to visualize software in an interactive map/dashboard similar to what can be done in data visualization tools.",
+        "range":"August 2020 - February 2021"
+    }
+]

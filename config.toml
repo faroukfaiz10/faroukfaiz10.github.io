@@ -1,4 +1,26 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://0.0.0.0:4000'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Portfolio'
 theme = "hugo-resume"
+
+
+[params]
+address = "Paris, France"
+email = "faiz@eurecom.fr"
+favicon = "/favicon.ico"
+firstName = "Farouk"
+lastName = "Faiz"
+profileImage = "profile.jpg"
+showEducation = true
+showExperience = true
+showOpenSource = true
+showProjects = true
+showSkills = true
+
+[[params.handles]]
+link = "https://www.linkedin.com/in/faizfarouk/"
+name = "LinkedIn"
+
+[[params.handles]]
+link = "https://github.com/faroukfaiz10/"
+name = "GitHub"

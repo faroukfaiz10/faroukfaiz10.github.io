@@ -1,0 +1,20 @@
+[
+    {
+        "school":"EURECOM",
+        "degree":"Master of Data science and Engineering",
+        "notes":"**Courses will go here**",
+        "range":"2019 - Present"
+    },
+    {
+        "school":"IMT Atlantique",
+        "degree":"Engineering degree",
+        "major": "Computer science Major",
+        "notes":"**Courses will go here**",
+        "range":"2018 - Present"
+    },
+    {
+        "school":"Preparatory classes (MPSI/MP**)",
+        "major": "Mathematics Major",
+        "range":"2016 - 2018"
+    }
+]
