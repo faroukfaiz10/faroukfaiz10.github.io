@@ -1,4 +1,4 @@
-baseURL = 'http://0.0.0.0:4000'
+baseURL = 'https:www.faroukfaiz.com'
 languageCode = 'en-us'
 title = 'Portfolio'
 theme = "hugo-resume"
@@ -16,6 +16,7 @@ showExperience = true
 showOpenSource = true
 showProjects = true
 showSkills = true
+publishDir = "docs"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/faizfarouk/"
