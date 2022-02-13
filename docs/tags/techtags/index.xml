@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>techtags on Portfolio</title>
-    <link>http://0.0.0.0:4000/tags/techtags/</link>
+    <link>https:www.faroukfaiz.com/tags/techtags/</link>
     <description>Recent content in techtags on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 23:00:39 +0100</lastBuildDate><atom:link href="http://0.0.0.0:4000/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 23:00:39 +0100</lastBuildDate><atom:link href="https:www.faroukfaiz.com/tags/techtags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Open Source Contributions</title>
-      <link>http://0.0.0.0:4000/projects/contributions/</link>
+      <link>https:www.faroukfaiz.com/projects/contributions/</link>
       <pubDate>Sun, 13 Feb 2022 23:00:39 +0100</pubDate>
       
-      <guid>http://0.0.0.0:4000/projects/contributions/</guid>
+      <guid>https:www.faroukfaiz.com/projects/contributions/</guid>
       <description></description>
     </item>
     

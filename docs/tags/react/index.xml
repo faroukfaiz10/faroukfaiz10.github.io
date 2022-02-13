@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React on Portfolio</title>
-    <link>http://0.0.0.0:4000/tags/react/</link>
+    <link>https:www.faroukfaiz.com/tags/react/</link>
     <description>Recent content in React on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="http://0.0.0.0:4000/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Feb 2022 19:45:09 +0100</lastBuildDate><atom:link href="https:www.faroukfaiz.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ScrapperIO</title>
-      <link>http://0.0.0.0:4000/projects/creations/scrapperio/</link>
+      <link>https:www.faroukfaiz.com/projects/creations/scrapperio/</link>
       <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
       
-      <guid>http://0.0.0.0:4000/projects/creations/scrapperio/</guid>
+      <guid>https:www.faroukfaiz.com/projects/creations/scrapperio/</guid>
       <description></description>
     </item>
     

@@ -16,7 +16,6 @@ showExperience = true
 showOpenSource = true
 showProjects = true
 showSkills = true
-publishDir = "docs"
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/faizfarouk/"
