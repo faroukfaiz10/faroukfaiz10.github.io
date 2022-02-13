@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Portfolio</title>
+    <link>https:www.faroukfaiz.com/</link>
+    <description>Recent content in Home on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Feb 2022 16:27:38 +0100</lastBuildDate><atom:link href="https:www.faroukfaiz.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ScrapperIO</title>
+      <link>https:www.faroukfaiz.com/projects/creations/scrapperio/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>https:www.faroukfaiz.com/projects/creations/scrapperio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fake estate agent</title>
+      <link>https:www.faroukfaiz.com/projects/creations/fake-estate-agent/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>https:www.faroukfaiz.com/projects/creations/fake-estate-agent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binance bot</title>
+      <link>https:www.faroukfaiz.com/projects/creations/binance-bot/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>https:www.faroukfaiz.com/projects/creations/binance-bot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LibAFL</title>
+      <link>https:www.faroukfaiz.com/projects/contributions/libafl/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>https:www.faroukfaiz.com/projects/contributions/libafl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codeforces to Google calendar</title>
+      <link>https:www.faroukfaiz.com/projects/creations/codeforces-calendar/</link>
+      <pubDate>Sun, 13 Feb 2022 19:45:09 +0100</pubDate>
+      
+      <guid>https:www.faroukfaiz.com/projects/creations/codeforces-calendar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
