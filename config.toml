@@ -1,4 +1,4 @@
-baseURL = 'https:www.faroukfaiz.com/'
+baseURL = 'https://www.faroukfaiz.com/'
 languageCode = 'en-us'
 title = 'Farouk'
 theme = "hugo-resume"
