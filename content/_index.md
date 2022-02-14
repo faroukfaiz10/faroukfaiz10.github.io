@@ -6,5 +6,5 @@ draft: false
 
 Final year computer science and engineering student at Eurecom and IMT Atlantique. Open source enthusiast and part time freelancer.
 
-I'm a Software engineer by day, but I'm passionate about a lot of related fields: Web, Devops, Data science and engineering, Cybersecurity and distributed systems to name a few.
+I'm a software engineer by day, but I'm passionate about a lot of related fields: web, devops, data science and engineering, cybersecurity and distributed systems to name a few.
 
