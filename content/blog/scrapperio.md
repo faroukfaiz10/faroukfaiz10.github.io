@@ -6,10 +6,8 @@ draft: false
 featured: true
 ---
 
-Intro   
------
-
 In progress ... 🚧
+-----
 
 **Teaser**: Sneak peak into the architecture diagram below :)
 
