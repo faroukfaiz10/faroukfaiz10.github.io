@@ -14,7 +14,7 @@
     {
         "role":"Software engineer intern",
         "company":"Klee Group",
-        "summary":"Design and develop an application in Typescript using p5.js to visualize software in an interactive map/dashboard similar to what can be done in data visualization tools.",
+        "summary":"Design and develop an [application](https://github.com/KleeGroup-BaseCamp/appviz-map) in Typescript using p5.js to visualize software in an interactive map/dashboard similar to what can be done in data visualization tools.",
         "range":"August 2020 - February 2021"
     }
 ]

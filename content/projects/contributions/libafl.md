@@ -6,7 +6,7 @@ description: "LibAFL is an open source Rust library that allows you to slot your
 <br/>
 Contributed by adding initial support for python bindings in the main crate <em>libafl</em> and used those bindings to recreate the <a href='https://github.com/AFLplusplus/LibAFL/blob/main/fuzzers/baby_fuzzer/src/main.rs'>baby_fuzzer</a> example in <a href='https://github.com/faroukfaiz10/LibAFL/blob/python-bindings/fuzzers/baby_fuzzer/baby_fuzzer.py'>python</a>.
 <br/>
-Also helped with the backtrace crash deduplication <a href='https://github.com/AFLplusplus/LibAFL/pull/379'>feature</a>.
+Also helped with the backtrace crash deduplication feature.
 <br/> <br/>
 More info in the <a href='https://github.com/AFLplusplus/LibAFL/pull/429'>PR</a>. 
 "
