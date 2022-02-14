@@ -16,6 +16,7 @@ showExperience = true
 showOpenSource = true
 showProjects = true
 showSkills = true
+showBlog = true
 
 [[params.handles]]
 link = "https://www.linkedin.com/in/faizfarouk/"

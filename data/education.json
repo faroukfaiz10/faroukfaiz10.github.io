@@ -2,14 +2,13 @@
     {
         "school":"EURECOM",
         "degree":"Master of Data science and Engineering",
-        "notes":"**Courses will go here**",
+        "notes":"- Cloud & distributed systems \n - Systems security \n - Operating systems architecture \n - Database management system implementation \n - Machine learning & Deep learning \n - Advanced statistical inference \n - Image processing and encoding \n - 3D and virtual imaging",
         "range":"2019 - Present"
     },
     {
         "school":"IMT Atlantique",
         "degree":"Engineering degree",
         "major": "Computer science Major",
-        "notes":"**Courses will go here**",
         "range":"2018 - Present"
     },
     {
