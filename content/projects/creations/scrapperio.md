@@ -7,7 +7,7 @@ the scrapped content without writing code. It comes with a helper extension that
 
 The project is still a work in progress and is not public at the moment.<br/>
 
-Read more in the corresponding <a href='https://github.com/faroukfaiz10/crous-arpej'>blog</a>.
+Read more in the corresponding <a href='blog/scrapperio'>blog</a>.
 <br/>
 "
 tags: ["Typescript", "NodeJS/Express", "GraphQL", "React", "Kafka", "Docker", "PostgreSQL", "Redis"]

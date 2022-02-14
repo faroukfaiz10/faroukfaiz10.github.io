@@ -9,6 +9,6 @@ featured: true
 In progress ... 🚧
 -----
 
-**Teaser**: Sneak peak into the architecture diagram below :)
+**Teaser**: Sneak peak into the architecture diagram below ;)
 
 ![architecture](/img/scrapperio.png)
