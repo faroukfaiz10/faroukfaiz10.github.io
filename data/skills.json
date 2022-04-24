@@ -16,7 +16,7 @@
     "grouping": "Web developement",
     "skills": [
       { "name": "Express", "icon_path": "express/express-original" },
-      { "name": "Django", "icon_path": "django/django-original" },
+      { "name": "Django", "icon_path": "django/django-plain" },
       { "name": "Flask", "icon_path": "flask/flask-original" },
       { "name": "Spring", "icon_path": "spring/spring-original" },
       { "name": "GraphQL", "icon_path": "graphql/graphql-plain" },
